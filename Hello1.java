@@ -1,6 +1,6 @@
 public class Hello1 {
     public static void main(String[] args) {
-        int result = add(10, 5);
+        int result = add(15, 10);
         System.out.println("Sum: " + result);
     }
 
