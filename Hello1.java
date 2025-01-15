@@ -1,4 +1,4 @@
-public class SimpleMethod {
+public class Hello1 {
     public static void main(String[] args) {
         int result = add(10, 5);
         System.out.println("Sum: " + result);
